@@ -1,5 +1,5 @@
 # compiler
-Web interface to fing First, Follow, Recursive Descent, Left Recursion, Left Factoring
+Web interface to find First, Follow, Recursive Descent, Left Recursion, Left Factoring of any production
 
 Prerequisites:-
 XAMPP, PHP should be installed on the machine.
